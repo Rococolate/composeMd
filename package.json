@@ -1,0 +1,23 @@
+{
+  "name": "composeMd",
+  "version": "1.0.0",
+  "description": "composeMd 是通过递归指定目录下的文件夹寻找所有READMD.md文件，然后合并输出成单独一份READMD.md到指定目录",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rococolate/composeMd.git"
+  },
+  "keywords": [],
+  "author": "Rococolate",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Rococolate/composeMd/issues"
+  },
+  "homepage": "https://github.com/Rococolate/composeMd#readme",
+  "dependencies": {
+    "async-reduce-p": "^1.0.0"
+  }
+}
